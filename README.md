@@ -2,7 +2,7 @@
 
 ### Olá eu sou o Gelcimar Moraes 🖖
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGM&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
