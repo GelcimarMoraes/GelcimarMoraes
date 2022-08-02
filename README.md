@@ -2,8 +2,8 @@
 
 ### Olá eu sou o Gelcimar Moraes 🖖
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&theme=radical)](https://github.com/GelcimarMoraes)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GelcimarMoraes)](https://github.com/GelcimarMoraes)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GelcimarMoraes&layout=compact)](https://github.com/GelcimarMoraes)
 
 ## Tecnologias que eu uso no meu dia
 
