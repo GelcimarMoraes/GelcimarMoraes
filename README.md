@@ -3,7 +3,7 @@
 ### Olá eu sou o Gelcimar Moraes 🖖
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GelcimarMoraes)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GelcimarMoraes)](https://github.com/GelcimarMoraes)
 
 ## Tecnologias que eu uso no meu dia
 
