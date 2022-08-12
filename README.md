@@ -3,8 +3,8 @@
 <h1 align="center">Hi 🖖, I'm Gelcimar Moraes</h1>
 <div align="center">
   <a href="https://github.com/GelcimarMoraes">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&theme=radical"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelcimarMoraes&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelcimarMoraes&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
