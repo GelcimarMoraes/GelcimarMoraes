@@ -9,7 +9,7 @@
 </div>
 
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GelcimarMoraes&theme=black-ice&hide_border=true&stroke=0000&background=00fe7b&ring=00fe7b&fire=00fe7b&currStreakLabel=e05397" alt="GelcimarMoraes" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GelcimarMoraes&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00fe7b&fire=00fe7b&currStreakLabel=e05397" alt="GelcimarMoraes" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <ul><li>🌱 I’m currently learning:</li></ul> 
