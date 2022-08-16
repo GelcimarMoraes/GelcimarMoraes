@@ -1,18 +1,26 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Secular+One&size=35&pause=100000&color=00FE7B&center=true&vCenter=true&width=1000&lines=Hi+%2C+I'm+Gelcimar+Moraes)](https://git.io/typing-svg)
 
+#
 
-<h1 align="center">Hi 🖖, I'm Gelcimar Moraes</h1>
-<div align="center">
-  <a href="https://github.com/GelcimarMoraes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelcimarMoraes&layout=compact&langs_count=7&theme=radical"/>
+ <summary><b>⚡ Github Stats</b></summary>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&count_private=true&hide_border=true&title_color=00fe7b&icon_color=00fe7b&text_color=c9d1d9&bg_color=0d1117" alt="GelcimarMoraes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelcimarMoraes&layout=compact&hide_border=true&title_color=00fe7b&text_color=00fe7b&bg_color=0d1117" />
 </div>
+
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GelcimarMoraes&theme=black-ice&hide_border=true&stroke=0000&background=00fe7b&ring=00fe7b&fire=00fe7b&currStreakLabel=e05397" alt="GelcimarMoraes" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <ul><li>🌱 I’m currently learning:</li></ul> 
 <div style="display: inline_block"></br>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/> </a> <img alt="github" height="45" width="45" src="https://github.com/GelcimarMoraes/GelcimarMoraes/blob/main/Portfolio/github.png">
-    <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
-    
+    <code><img height="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+    <code><img height="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+    <code><img height="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+    <code><img height="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"></code>
+    <code><img height="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+    <code><img height="40" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+    <code><img height="40" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 </div>
 
 ![Snake animation](https://github.com/GelcimarMoraes/GelcimarMoraes/blob/output/github-contribution-grid-snake.svg)
