@@ -22,7 +22,7 @@
     <code><img height="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"></code>
     <code><img height="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
     <code><img height="40" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-    <code><img height="40" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+    <code><img height="40" alt="github" src="https://user-images.githubusercontent.com/107283708/176740466-4f060c8e-32cd-4b8f-86b8-90338859fcb4.png"></code>
 </div>
 
 <div align="center">
@@ -35,5 +35,5 @@
 <h3 align="center">🏆 Github Achievements</h3>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GelcimarMoraes&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GelcimarMoraes&include_all_commits=true&count_private=true&theme=tokyonight&row=2&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
