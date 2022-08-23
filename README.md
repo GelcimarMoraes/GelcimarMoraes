@@ -35,5 +35,5 @@
 <h3 align="center">🏆 Github Achievements</h3>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GelcimarMoraes&include_all_commits=true&count_private=true&theme=tokyonight&row=2&no-bg=true&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GelcimarMoraes&include_all_commits=true&count_private=true&theme=tokyonight&row=2&no-bg=true&column=7&margin-w=5&margin-h=5" />
 </p>
