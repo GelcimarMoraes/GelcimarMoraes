@@ -16,14 +16,20 @@
 <h3 align="center">Languages and Tools:</h3>
 <h4 align="center">🌱 I’m currently learning.</h4>
 <div align="center" style="display: inline_block"></br>
-    <code><img height="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-    <code><img height="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-    <code><img height="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-    <code><img height="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"></code>
-    <code><img height="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-    <code><img height="40" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-    <code><img height="40" alt="github" src="https://user-images.githubusercontent.com/107283708/176740466-4f060c8e-32cd-4b8f-86b8-90338859fcb4.png"></code>
+    <code><img src="https://skillicons.dev/icons?i=html" /></code>
+    <code><img src="https://skillicons.dev/icons?i=css" /></code>
+    <code><img src="https://skillicons.dev/icons?i=javascript" /></code>
+    <code><img src="https://skillicons.dev/icons?i=bootstrap" /></code>
+    <code><img src="https://skillicons.dev/icons?i=git" /></code>
+    <code><img src="https://skillicons.dev/icons?i=vscode" /></code>
+    <code><img src="https://skillicons.dev/icons?i=github" /></code>
+    <code><img src="https://skillicons.dev/icons?i=figma" /></code>
+    <code><img src="https://skillicons.dev/icons?i=xd" /></code>
+    <code><img src="https://skillicons.dev/icons?i=ps" /></code>
+    <code><img src="https://skillicons.dev/icons?i=ai" /></code>
 </div>
+
+
 
 <div align="center">
  
