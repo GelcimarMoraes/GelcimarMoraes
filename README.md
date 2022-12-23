@@ -18,16 +18,17 @@
 <div align="center" style="display: inline_block"></br>
     <code><img src="https://skillicons.dev/icons?i=html"/></code>
     <code><img src="https://skillicons.dev/icons?i=css"/></code>
+    <code><img src="https://skillicons.dev/icons?i=sass"/></code>
+    <code><img src="https://skillicons.dev/icons?i=bootstrap"/></code>
     <code><img src="https://skillicons.dev/icons?i=javascript"/></code>
     <code><img src="https://skillicons.dev/icons?i=typescript"/></code>
     <code><img src="https://skillicons.dev/icons?i=react"/></code>
     <code><img src="https://skillicons.dev/icons?i=vue"/></code>
     <code><img src="https://skillicons.dev/icons?i=redux"/></code>
-    <code><img src="https://skillicons.dev/icons?i=bootstrap"/></code>
     <code><img src="https://skillicons.dev/icons?i=wordpress"/></code>
     <code><img src="https://skillicons.dev/icons?i=git"/></code>
-    <code><img src="https://skillicons.dev/icons?i=vscode"/></code>
     <code><img src="https://skillicons.dev/icons?i=github"/></code>
+    <code><img src="https://skillicons.dev/icons?i=vscode"/></code>
     <code><img src="https://skillicons.dev/icons?i=figma"/></code>
     <code><img src="https://skillicons.dev/icons?i=xd"/></code>
     <code><img src="https://skillicons.dev/icons?i=ps"/></code>
