@@ -2,19 +2,19 @@
 
 #
 
-<h3 align="center">⚡ Github Stats</h3>
+<h3 align="center">Github Stats</h3>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&count_private=true&hide_border=true&title_color=7589FFFF&icon_color=C39DFFFF&text_color=58B6B3FF&bg_color=0d1117" alt="GelcimarMoraes github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelcimarMoraes&layout=compact&hide_border=true&title_color=7589FFFF&text_color=58B6B3FF&bg_color=0d1117"/>
 </div>
 
- <h3 align="center">🔥 Github Streaks</h3>
+ <h3 align="center">Github Streaks</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GelcimarMoraes&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=7589FFFF&fire=C39DFFFF&currStreakLabel=58B6B3FF" alt="GelcimarMoraes"/></p>
 
 #
 
 <h3 align="center">Languages and Tools:</h3>
-<h4 align="center">🌱 I’m currently learning.</h4>
+<h4 align="center">I’m currently learning.</h4>
 <div align="center" style="display: inline_block"></br>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=html"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=css"/></code>
