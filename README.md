@@ -47,7 +47,7 @@
 </div>
 
 #
-<h3 align="center">🏆 Github Achievements</h3>
+<h3 align="center">Github Achievements</h3>
 <br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GelcimarMoraes&include_all_commits=true&count_private=true&theme=tokyonight&row=2&no-bg=true&column=9&margin-w=2&margin-h=5" />
