@@ -41,7 +41,7 @@
 
 <div align="center">
   
- 
+ ![Snake animation](https://github.com/GelcimarMoraes/GelcimarMoraes/blob/output/github-user-contribution.svg)
 
 
 </div>
