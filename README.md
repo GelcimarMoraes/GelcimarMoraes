@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Secular+One&size=35&pause=100000&color=00FE7B&center=true&vCenter=true&width=1000&lines=Hi+%2C+I'm+Gelcimar+Moraes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=4000&pause=10000&color=7589FFFF&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+Gelcimar+Moraes)](https://git.io/typing-svg)
 
 #
 
 <h3 align="center">⚡ Github Stats</h3>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&count_private=true&hide_border=true&title_color=00fe7b&icon_color=00fe7b&text_color=c9d1d9&bg_color=0d1117" alt="GelcimarMoraes github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelcimarMoraes&layout=compact&hide_border=true&title_color=00fe7b&text_color=00fe7b&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&count_private=true&hide_border=true&title_color=7589FFFF&icon_color=C39DFFFF&text_color=58B6B3FF&bg_color=0d1117" alt="GelcimarMoraes github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelcimarMoraes&layout=compact&hide_border=true&title_color=7589FFFF&text_color=58B6B3FF&bg_color=0d1117"/>
 </div>
 
  <h3 align="center">🔥 Github Streaks</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GelcimarMoraes&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00fe7b&fire=00fe7b&currStreakLabel=00fe7b" alt="GelcimarMoraes"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GelcimarMoraes&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=7589FFFF&fire=C39DFFFF&currStreakLabel=58B6B3FF" alt="GelcimarMoraes"/></p>
 
 #
 
