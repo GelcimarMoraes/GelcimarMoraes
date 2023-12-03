@@ -6,10 +6,12 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&count_private=true&hide_border=true&title_color=7589FFFF&icon_color=C39DFFFF&text_color=58B6B3FF&bg_color=0d1117" alt="GelcimarMoraes github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelcimarMoraes&layout=compact&hide_border=true&title_color=7589FFFF&text_color=58B6B3FF&bg_color=0d1117"/>
+
 </div>
 
  <h3 align="center">Github Streaks</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GelcimarMoraes&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=7589FFFF&fire=C39DFFFF&currStreakLabel=58B6B3FF" alt="GelcimarMoraes"/></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GelcimarMoraes&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="GelcimarMoraes"/></p>
 
 #
 
@@ -41,7 +43,7 @@
 
 <div align="center">
   
- ![Snake animation](https://github.com/GelcimarMoraes/GelcimarMoraes/blob/output/github-user-contribution.svg)
+
 
 
 </div>
