@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=4000&pause=10000&color=7589FFFF&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+Gelcimar+Moraes)](https://git.io/typing-svg)
 
-#
+
 
 <h3 align="center">Github Stats</h3>
 <div align="center">  
@@ -36,21 +36,30 @@
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=xd"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=ps"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=ai"/></code>
+
+     
 </div>
-</div>
 
 
 
-<div align="center">
+<h3 align="center">🌐 Socials:</h3>
+<div align="center" style="display: inline_block">
   
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gelcimarmoraes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gelcimarmoraes) 
 
 
 </div>
 
 #
+
 <h3 align="center">Github Achievements</h3>
 <br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GelcimarMoraes&include_all_commits=true&count_private=true&theme=tokyonight&row=2&no-bg=true&column=9&margin-w=2&margin-h=5" />
 </p>
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=GelcimarMoraes&icon=0&color=6)](https://visitcount.itsvg.in)
+
+</div>
