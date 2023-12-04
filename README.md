@@ -4,8 +4,9 @@
 
 <h3 align="center">Github Stats</h3>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&count_private=true&hide_border=true&title_color=7589FFFF&icon_color=C39DFFFF&text_color=58B6B3FF&bg_color=0d1117" alt="GelcimarMoraes github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelcimarMoraes&layout=compact&hide_border=true&title_color=7589FFFF&text_color=58B6B3FF&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&icon_color=C39DFFFF&bg_color=0d1117" alt="GelcimarMoraes github stats" /> 
+  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelcimarMoraes&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117"/>
 
 </div>
 
