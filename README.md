@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=4000&pause=10000&color=7589FFFF&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+Gelcimar+Moraes)](https://git.io/typing-svg)
 
 
-
+<br/><br/>
 <h3 align="center">Github Stats</h3>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GelcimarMoraes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&icon_color=C39DFFFF&bg_color=0d1117" alt="GelcimarMoraes github stats" /> 
@@ -42,7 +42,7 @@
 </div>
 
 
-
+<br/><br/><br/><br/>
 <h3 align="center">🌐 Socials:</h3>
 <div align="center" style="display: inline_block">
   
