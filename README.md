@@ -46,7 +46,7 @@
 <h3 align="center">🌐 Socials:</h3>
 <div align="center" style="display: inline_block">
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gelcimarmoraes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gelcimarmoraes) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gelcimarmoraes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gelcimarmoraes) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23055192) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/GelcimarMoraes)
 
 
 </div>
@@ -60,7 +60,5 @@
 </p>
 
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=GelcimarMoraes&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
