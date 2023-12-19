@@ -17,7 +17,7 @@
 #
 
 <h3 align="center">Languages and Tools:</h3>
-<h4 align="center">I’m currently learning.</h4>
+
 <div align="center" style="display: inline_block"></br>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=html"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=css"/></code>
