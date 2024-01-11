@@ -12,7 +12,9 @@
 
  <h3 align="center">Github Streaks</h3>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GelcimarMoraes&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="GelcimarMoraes"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GelcimarMoraes&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="GelcimarMoraes"/>
+
+</p>
 
 #
 
