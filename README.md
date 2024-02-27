@@ -33,8 +33,8 @@
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=redux"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=vue"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=php"/></code>
-    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=wordpress"/></code>
     <div align="center" style="display: inline_block"></br>
+    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=wordpress"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=git"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=github"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=vscode"/></code>
