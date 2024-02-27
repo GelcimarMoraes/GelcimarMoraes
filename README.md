@@ -28,8 +28,9 @@
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=javascript"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=typescript"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=react"/></code>
-    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=vue"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=redux"/></code>
+    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=Tailwind"/></code>
+    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=vue"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=wordpress"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=git"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=github"/></code>
