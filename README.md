@@ -26,6 +26,7 @@
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=sass"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=bootstrap"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=tailwind"/></code>
+    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=materialui"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=javascript"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=typescript"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=react"/></code>
