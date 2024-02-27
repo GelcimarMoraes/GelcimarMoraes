@@ -80,7 +80,7 @@
             <img src="https://raw.githubusercontent.com/GelcimarMoraes/bikcraft/main/screen2.png" width="100%" alt="bikcraft"/>
         </a>
         <br />
-        <p><strong>Este é um site para comprar de Bicicletas online.</strong></p>
+        <p><strong>Este é um site para comprar Bicicletas online.</strong></p>
       <p align="left">
         <strong> Tecnologias utilizadas </strong>
         <br/><br/>
@@ -106,7 +106,7 @@
             <img src="https://raw.githubusercontent.com/GelcimarMoraes/bikcraft/main/screen2.png" width="100%" alt="bikcraft"/>
         </a>
         <br/>
-        <p><strong>Este é um site para comprar de Bicicletas online.</strong></p>
+        <p><strong>Este é um site para comprar Bicicletas online.</strong></p>
       <p align="left">
         <strong> Tecnologias utilizadas </strong>
         <br/><br/>
