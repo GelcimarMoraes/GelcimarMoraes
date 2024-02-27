@@ -101,27 +101,26 @@
       </p>
     </td>
      <td width="50%" valign="top">
-      <h3 align="center">Bicicletas feitas sob medida</h3>
+      <h3 align="center">Portfolio Lobo</h3>
         <br/>
         <a target="_blank" href="">
-            <img src="https://raw.githubusercontent.com/GelcimarMoraes/bikcraft/main/screen2.png" width="100%" alt="bikcraft"/>
+            <img src="https://raw.githubusercontent.com/GelcimarMoraes/portfolio-lobo/main/screen9.png" width="100%" alt="bikcraft"/>
         </a>
         <br/>
-        <p><strong>Este é um site para comprar Bicicletas online.</strong></p>
+        <p><strong>Este é um Portfolio.</strong></p>
       <p align="left">
         <strong> Tecnologias utilizadas </strong>
         <br/><br/>
         <code><img style="width: 40px" src="https://skillicons.dev/icons?i=html"/></code>
         <code><img style="width: 40px" src="https://skillicons.dev/icons?i=css"/></code>
-        <code><img style="width: 40px" src="https://skillicons.dev/icons?i=javascript"/></code>
       </p>
        <br/><br/>
       <p align="center">
           
-  <a href="https://github.com/GelcimarMoraes/bikcraft/tree/main" target="_blank">
+  <a href="https://github.com/GelcimarMoraes/portfolio-lobo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/13-otimizar-producao/bikcraft/index.html" target="_blank">
+  <a href="https://gelcimarmoraes.github.io/portfolio-lobo/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
