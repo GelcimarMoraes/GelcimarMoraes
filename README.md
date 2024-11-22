@@ -26,14 +26,7 @@
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=sass"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=bootstrap"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=tailwind"/></code>
-    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=materialui"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=javascript"/></code>
-    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=typescript"/></code>
-    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=react"/></code>
-    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=vite"/></code>
-    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=redux"/></code>
-    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=vue"/></code>
-    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=php"/></code>
     <div align="center" style="display: inline_block"></br>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=wordpress"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=git"/></code>
@@ -43,6 +36,23 @@
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=xd"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=ps"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=ai"/></code>
+
+     
+</div>
+
+</br></br>
+
+<h3 align="center">Lang</h3>
+
+<div align="center" style="display: inline_block"></br>
+    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=materialui"/></code>
+    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=typescript"/></code>
+    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=react"/></code>
+    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=vite"/></code>
+    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=redux"/></code>
+    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=vue"/></code>
+    <code><img style="width: 40px" src="https://skillicons.dev/icons?i=php"/></code>
+    <div align="center" style="display: inline_block"></br>
 
      
 </div>
