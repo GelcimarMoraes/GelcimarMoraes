@@ -42,7 +42,7 @@
 
 </br></br>
 
-<h3 align="center">Lang</h3>
+<h3 align="center">I’m currently learning 🌱</h3>
 
 <div align="center" style="display: inline_block"></br>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=materialui"/></code>
